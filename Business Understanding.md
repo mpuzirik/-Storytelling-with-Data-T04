@@ -1,5 +1,3 @@
-# Bean there Done That – Storytelling with Data
-
 ## 1. Business Understanding
 
 ### Company Context
